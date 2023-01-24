@@ -1,5 +1,5 @@
-fakeVisitorCount = 30
-startUserID = 400000
+fakeVisitorCount = 15
+startUserID = 310020
 spreadToken = '-169bce0851ad3141807ee338b19c21ef'
 province = '北京'
 city = '北京'
